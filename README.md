@@ -19,3 +19,6 @@ There are 3 modes (till update 1.0) in the game:
 2. Below the name of every map high score of that map is shown, ("N/A" if none created yet) beating which will give you $150 unless you are playing in practice mode.
 3. Car Movement using keys "AWSD", and camera mode using key "C".
 4. Detailed description of playing guide can be seen in "How to Play" option in game.
+
+# Download Link
+https://drive.google.com/drive/folders/11vKZZhNgWQ6dMnNsUM2hgEBboZCy2yfk?usp=sharing
